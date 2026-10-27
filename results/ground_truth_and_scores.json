@@ -1,0 +1,445 @@
+{
+ "truth": [
+  {
+   "site": "PL-MAZ",
+   "kind": "curtailment",
+   "start": "2026-05-28 11:00:00+00:00",
+   "hours": 2,
+   "cap_pct": 50,
+   "lost_mwh": 6.41
+  },
+  {
+   "site": "PL-MAZ",
+   "kind": "curtailment",
+   "start": "2026-06-28 10:00:00+00:00",
+   "hours": 4,
+   "cap_pct": 50,
+   "lost_mwh": 11.75
+  },
+  {
+   "site": "PL-MAZ",
+   "kind": "curtailment",
+   "start": "2026-08-14 11:00:00+00:00",
+   "hours": 4,
+   "cap_pct": 30,
+   "lost_mwh": 18.04
+  },
+  {
+   "site": "PL-MAZ",
+   "kind": "curtailment",
+   "start": "2026-08-20 12:00:00+00:00",
+   "hours": 4,
+   "cap_pct": 70,
+   "lost_mwh": 1.17
+  },
+  {
+   "site": "PL-MAZ",
+   "kind": "curtailment",
+   "start": "2026-07-25 12:00:00+00:00",
+   "hours": 2,
+   "cap_pct": 50,
+   "lost_mwh": 4.26
+  },
+  {
+   "site": "PL-MAZ",
+   "kind": "curtailment",
+   "start": "2026-07-23 12:00:00+00:00",
+   "hours": 4,
+   "cap_pct": 70,
+   "lost_mwh": 0.62
+  },
+  {
+   "site": "PL-MAZ",
+   "kind": "curtailment",
+   "start": "2026-05-24 12:00:00+00:00",
+   "hours": 5,
+   "cap_pct": 30,
+   "lost_mwh": 8.79
+  },
+  {
+   "site": "PL-MAZ",
+   "kind": "curtailment",
+   "start": "2026-07-03 11:00:00+00:00",
+   "hours": 5,
+   "cap_pct": 30,
+   "lost_mwh": 18.83
+  },
+  {
+   "site": "PL-MAZ",
+   "kind": "curtailment",
+   "start": "2026-05-07 10:00:00+00:00",
+   "hours": 2,
+   "cap_pct": 30,
+   "lost_mwh": 5.66
+  },
+  {
+   "site": "PL-MAZ",
+   "kind": "curtailment",
+   "start": "2026-06-24 10:00:00+00:00",
+   "hours": 3,
+   "cap_pct": 0,
+   "lost_mwh": 21.39
+  },
+  {
+   "site": "PL-MAZ",
+   "kind": "outage",
+   "start": "2026-06-25",
+   "hours": 24,
+   "lost_mwh": 14.75
+  },
+  {
+   "site": "PL-MAZ",
+   "kind": "outage",
+   "start": "2026-08-13",
+   "hours": 24,
+   "lost_mwh": 11.75
+  },
+  {
+   "site": "PL-MAZ",
+   "kind": "defect_stuck",
+   "start": "2026-06-14 18:00:00+00:00",
+   "hours": 7
+  },
+  {
+   "site": "PL-MAZ",
+   "kind": "defect_gap",
+   "hours": 5
+  },
+  {
+   "site": "PL-MAZ",
+   "kind": "defect_gap",
+   "hours": 4
+  },
+  {
+   "site": "PL-MAZ",
+   "kind": "defect_gap",
+   "hours": 4
+  },
+  {
+   "site": "PL-MAZ",
+   "kind": "defect_spike",
+   "hours": 4
+  },
+  {
+   "site": "PL-MAZ",
+   "kind": "defect_night",
+   "hours": 5
+  },
+  {
+   "site": "PL-MAZ",
+   "kind": "defect_duplicate",
+   "hours": 6
+  },
+  {
+   "site": "PL-WLK",
+   "kind": "curtailment",
+   "start": "2026-07-27 10:00:00+00:00",
+   "hours": 4,
+   "cap_pct": 30,
+   "lost_mwh": 13.88
+  },
+  {
+   "site": "PL-WLK",
+   "kind": "curtailment",
+   "start": "2026-08-05 10:00:00+00:00",
+   "hours": 2,
+   "cap_pct": 30,
+   "lost_mwh": 7.75
+  },
+  {
+   "site": "PL-WLK",
+   "kind": "curtailment",
+   "start": "2026-08-23 12:00:00+00:00",
+   "hours": 3,
+   "cap_pct": 0,
+   "lost_mwh": 14.72
+  },
+  {
+   "site": "PL-WLK",
+   "kind": "curtailment",
+   "start": "2026-06-13 11:00:00+00:00",
+   "hours": 5,
+   "cap_pct": 50,
+   "lost_mwh": 6.35
+  },
+  {
+   "site": "PL-WLK",
+   "kind": "curtailment",
+   "start": "2026-08-17 10:00:00+00:00",
+   "hours": 3,
+   "cap_pct": 50,
+   "lost_mwh": 4.02
+  },
+  {
+   "site": "PL-WLK",
+   "kind": "curtailment",
+   "start": "2026-08-03 12:00:00+00:00",
+   "hours": 5,
+   "cap_pct": 0,
+   "lost_mwh": 22.57
+  },
+  {
+   "site": "PL-WLK",
+   "kind": "curtailment",
+   "start": "2026-08-06 12:00:00+00:00",
+   "hours": 2,
+   "cap_pct": 0,
+   "lost_mwh": 12.42
+  },
+  {
+   "site": "PL-WLK",
+   "kind": "curtailment",
+   "start": "2026-08-15 10:00:00+00:00",
+   "hours": 2,
+   "cap_pct": 50,
+   "lost_mwh": 6.06
+  },
+  {
+   "site": "PL-WLK",
+   "kind": "curtailment",
+   "start": "2026-05-22 11:00:00+00:00",
+   "hours": 4,
+   "cap_pct": 0,
+   "lost_mwh": 16.32
+  },
+  {
+   "site": "PL-WLK",
+   "kind": "outage",
+   "start": "2026-05-24",
+   "hours": 24,
+   "lost_mwh": 13.96
+  },
+  {
+   "site": "PL-WLK",
+   "kind": "outage",
+   "start": "2026-07-27",
+   "hours": 24,
+   "lost_mwh": 8.26
+  },
+  {
+   "site": "PL-WLK",
+   "kind": "defect_stuck",
+   "start": "2026-06-03 04:00:00+00:00",
+   "hours": 7
+  },
+  {
+   "site": "PL-WLK",
+   "kind": "defect_gap",
+   "hours": 2
+  },
+  {
+   "site": "PL-WLK",
+   "kind": "defect_gap",
+   "hours": 4
+  },
+  {
+   "site": "PL-WLK",
+   "kind": "defect_gap",
+   "hours": 6
+  },
+  {
+   "site": "PL-WLK",
+   "kind": "defect_spike",
+   "hours": 4
+  },
+  {
+   "site": "PL-WLK",
+   "kind": "defect_night",
+   "hours": 5
+  },
+  {
+   "site": "PL-WLK",
+   "kind": "defect_duplicate",
+   "hours": 6
+  },
+  {
+   "site": "PL-PKR",
+   "kind": "curtailment",
+   "start": "2026-06-24 12:00:00+00:00",
+   "hours": 4,
+   "cap_pct": 70,
+   "lost_mwh": 2.53
+  },
+  {
+   "site": "PL-PKR",
+   "kind": "curtailment",
+   "start": "2026-06-09 10:00:00+00:00",
+   "hours": 4,
+   "cap_pct": 70,
+   "lost_mwh": 4.17
+  },
+  {
+   "site": "PL-PKR",
+   "kind": "curtailment",
+   "start": "2026-08-01 12:00:00+00:00",
+   "hours": 4,
+   "cap_pct": 50,
+   "lost_mwh": 4.91
+  },
+  {
+   "site": "PL-PKR",
+   "kind": "curtailment",
+   "start": "2026-08-14 10:00:00+00:00",
+   "hours": 2,
+   "cap_pct": 30,
+   "lost_mwh": 11.46
+  },
+  {
+   "site": "PL-PKR",
+   "kind": "curtailment",
+   "start": "2026-06-25 10:00:00+00:00",
+   "hours": 2,
+   "cap_pct": 70,
+   "lost_mwh": 4.42
+  },
+  {
+   "site": "PL-PKR",
+   "kind": "curtailment",
+   "start": "2026-08-23 12:00:00+00:00",
+   "hours": 5,
+   "cap_pct": 50,
+   "lost_mwh": 3.16
+  },
+  {
+   "site": "PL-PKR",
+   "kind": "curtailment",
+   "start": "2026-06-15 12:00:00+00:00",
+   "hours": 5,
+   "cap_pct": 50,
+   "lost_mwh": 6.24
+  },
+  {
+   "site": "PL-PKR",
+   "kind": "curtailment",
+   "start": "2026-08-13 10:00:00+00:00",
+   "hours": 2,
+   "cap_pct": 30,
+   "lost_mwh": 10.6
+  },
+  {
+   "site": "PL-PKR",
+   "kind": "curtailment",
+   "start": "2026-08-12 12:00:00+00:00",
+   "hours": 3,
+   "cap_pct": 50,
+   "lost_mwh": 5.44
+  },
+  {
+   "site": "PL-PKR",
+   "kind": "curtailment",
+   "start": "2026-05-20 10:00:00+00:00",
+   "hours": 2,
+   "cap_pct": 50,
+   "lost_mwh": 6.22
+  },
+  {
+   "site": "PL-PKR",
+   "kind": "curtailment",
+   "start": "2026-08-18 12:00:00+00:00",
+   "hours": 5,
+   "cap_pct": 50,
+   "lost_mwh": 5.33
+  },
+  {
+   "site": "PL-PKR",
+   "kind": "curtailment",
+   "start": "2026-05-24 10:00:00+00:00",
+   "hours": 5,
+   "cap_pct": 70,
+   "lost_mwh": 6.11
+  },
+  {
+   "site": "PL-PKR",
+   "kind": "curtailment",
+   "start": "2026-08-03 12:00:00+00:00",
+   "hours": 2,
+   "cap_pct": 30,
+   "lost_mwh": 6.28
+  },
+  {
+   "site": "PL-PKR",
+   "kind": "outage",
+   "start": "2026-08-02",
+   "hours": 24,
+   "lost_mwh": 8.0
+  },
+  {
+   "site": "PL-PKR",
+   "kind": "outage",
+   "start": "2026-06-26",
+   "hours": 24,
+   "lost_mwh": 14.82
+  },
+  {
+   "site": "PL-PKR",
+   "kind": "defect_stuck",
+   "start": "2026-06-01 12:00:00+00:00",
+   "hours": 7
+  },
+  {
+   "site": "PL-PKR",
+   "kind": "defect_gap",
+   "hours": 5
+  },
+  {
+   "site": "PL-PKR",
+   "kind": "defect_gap",
+   "hours": 5
+  },
+  {
+   "site": "PL-PKR",
+   "kind": "defect_gap",
+   "hours": 5
+  },
+  {
+   "site": "PL-PKR",
+   "kind": "defect_spike",
+   "hours": 4
+  },
+  {
+   "site": "PL-PKR",
+   "kind": "defect_night",
+   "hours": 5
+  },
+  {
+   "site": "PL-PKR",
+   "kind": "defect_duplicate",
+   "hours": 6
+  }
+ ],
+ "scores": {
+  "PL-MAZ": {
+   "curtailments": 10,
+   "detected": 9,
+   "missed": 1,
+   "false_alarms": 0,
+   "lost_mwh_true": 96.9,
+   "lost_mwh_estimated": 96.5,
+   "outages": 2,
+   "outages_detected": 2,
+   "unclassified": 0
+  },
+  "PL-WLK": {
+   "curtailments": 9,
+   "detected": 8,
+   "missed": 1,
+   "false_alarms": 0,
+   "lost_mwh_true": 104.1,
+   "lost_mwh_estimated": 91.1,
+   "outages": 2,
+   "outages_detected": 2,
+   "unclassified": 0
+  },
+  "PL-PKR": {
+   "curtailments": 13,
+   "detected": 13,
+   "missed": 0,
+   "false_alarms": 0,
+   "lost_mwh_true": 76.9,
+   "lost_mwh_estimated": 75.7,
+   "outages": 2,
+   "outages_detected": 2,
+   "unclassified": 0
+  }
+ }
+}
